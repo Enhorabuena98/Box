@@ -1,0 +1,56 @@
+/* Encabezado de nivel 2 */
+h2 {
+    color: #A00;
+}
+
+/* Texto con color rojo claro */
+.rojo {
+    color: #A00;
+}
+
+/* Fuente Verdana, Calibri, sans-serif */
+.fuente {
+    font-family: Verdana, Calibri, sans-serif;
+}
+
+/* Tamaño de texto: 24px */
+.tamano-24 {
+    font-size: 24px;
+}
+
+/* Color verde oscuro */
+.verde-oscuro {
+    color: #060;
+}
+
+/* Texto subrayado para "Internet" y "la Web" */
+.subrayado {
+    text-decoration: underline;
+}
+
+/* Tamaño de texto: 20px */
+.tamano-20 {
+    font-size: 20px;
+}
+
+/* Texto en negrita */
+strong {
+    font-weight: bold;
+}
+
+/* Estilo para texto importante */
+.importante {
+    color: #FFF;
+    background-color: #000;
+}
+
+/* Texto en cursiva */
+em {
+    font-style: italic;
+}
+
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}

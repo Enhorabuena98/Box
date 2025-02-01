@@ -1,0 +1,59 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+/* Encabezados */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px;
+    color: #000;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    color: #900;
+}
+
+h3 {
+    color: #060;
+    font-size: 24px;
+}
+
+/* Secciones */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ccffcc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Enfasis */
+.importante {
+    color: #900;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.enfasis {
+    font-style: italic;
+    font-weight: bold;
+    color: #000;
+}
+
+/* Listas */
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}

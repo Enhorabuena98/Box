@@ -1,0 +1,50 @@
+/* Fondo de la página */
+body {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: orange; /* Color de fondo */
+    border: 5px solid blue;   /* Borde del cuerpo */
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+    text-align: justify;
+  }
+  
+  /* Título principal */
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 auto 20px;
+    color: darkblue; /* Color del texto */
+    text-shadow: 2px 2px 5px black; /* Sombra al texto */
+    padding: 10px;
+  }
+  
+  /* Imagen centrada */
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 200px;
+    height: auto;
+  }
+  
+  /* Lista */
+  ul {
+    margin: 10px 0;
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  
+  /* Enlaces */
+  a {
+    color: darkred;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

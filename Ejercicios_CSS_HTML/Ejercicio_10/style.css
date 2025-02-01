@@ -1,0 +1,41 @@
+/* Estilo general para el cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo del encabezado */
+  h1 {
+    font-size: 24px;
+    margin: 20px 0;
+    font-weight: normal;
+  }
+  
+  /* Contenedor del menú */
+  .menu {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  /* Botones del menú */
+  .menu a {
+    display: block;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 14px;
+    text-align: center;
+    margin: 2px 0; /* Espaciado entre botones */
+  }
+  
+  /* Efecto hover (opcional) */
+  .menu a:hover {
+    background-color: darkblue;
+  }
+  

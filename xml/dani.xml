@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Almacen xmlns:producto="htp://holaquetal.es" xmlns:cliente="http://www.w3.org/2001/XMLSchema-instance">
+    <producto:items>
+        <producto:item>
+            <id></id>
+        </producto:item>
+        <producto:item></producto:item>
+        <producto:item></producto:item>
+    </producto:items>
+
+
+</Almacen>

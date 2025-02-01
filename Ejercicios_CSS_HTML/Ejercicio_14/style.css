@@ -1,0 +1,61 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  /* Transform: rotación y escalado */
+  .transform-example {
+    width: 300px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    transform: rotate(10deg) scale(1.2);
+    border: 2px solid blue;
+    margin-bottom: 20px;
+  }
+  
+  /* Background-image: gradiente */
+  .background-example {
+    width: 300px;
+    height: 100px;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+    margin-bottom: 20px;
+  }
+  
+  /* Color: usando RGB, RGBA y HSL */
+  .color-example {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  /* Ejemplo de colores */
+  .color-example::before {
+    content: "Color en RGB: ";
+    color: rgb(255, 0, 0);
+  }
+  
+  .color-example span {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .color-example span:first-child {
+    color: rgba(0, 255, 0, 0.5); /* Verde con transparencia */
+  }
+  
+  .color-example span:last-child {
+    color: hsl(240, 100%, 50%); /* Azul puro */
+  }
+  

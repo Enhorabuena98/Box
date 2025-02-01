@@ -1,0 +1,16 @@
+/* Enlaces no visitados */
+a:link {
+    color: pink;
+    text-decoration: underline;
+}
+
+/* Enlaces visitados */
+a:visited {
+    color: green;
+    text-decoration: underline;
+}
+
+/* Enlaces al pasar el ratón */
+a:hover {
+    text-decoration: none;
+}

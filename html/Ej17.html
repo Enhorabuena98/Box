@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Form</title>
+</head>
+<body>
+    <h1>Payment form</h1>
+    <p>Required fields are followed by *</p>
+
+    <fieldset>
+        <legend>Contact information</legend>
+
+        <label for="title">Title:</label><br>
+        <input type="radio" id="ace" name="title" value="Ace">
+        <label for="ace">Ace</label><br>
+
+        <input type="radio" id="king" name="title" value="King">
+        <label for="king">King</label><br>
+
+        <input type="radio" id="queen" name="title" value="Queen">
+        <label for="queen">Queen</label><br><br>
+
+        <label for="name">Name: *</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email: *</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="password">Password: *</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+    </fieldset>
+
+    <fieldset>
+        <legend>Payment information</legend>
+
+        <label for="cardtype">Card type:</label><br>
+        <select id="cardtype" name="cardtype">
+            <option value="visa">Visa</option>
+            <option value="mastercard">MasterCard</option>
+            <option value="amex">American Express</option>
+        </select><br><br>
+
+        <label for="cardnumber">Card number: *</label><br>
+        <input type="text" id="cardnumber" name="cardnumber" required><br><br>
+
+        <label for="expiration">Expiration date: *</label><br>
+        <input type="month" id="expiration" name="expiration" required><br><br>
+    </fieldset>
+
+    <button type="submit">Validate the payment</button>
+</body>
+</html>

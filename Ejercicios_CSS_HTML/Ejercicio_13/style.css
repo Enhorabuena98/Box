@@ -1,0 +1,71 @@
+/* Cambiar el tamaño de la fuente */
+.font-size-small {
+    font-size: 12px;
+  }
+  
+  .font-size-medium {
+    font-size: 20px;
+  }
+  
+  .font-size-large {
+    font-size: 32px;
+  }
+  
+  /* Cambiar el ancho */
+  .width-small {
+    width: 100px;
+    background-color: lightgray; /* Para visualizar el ancho */
+  }
+  
+  .width-medium {
+    width: 200px;
+    background-color: lightblue;
+  }
+  
+  .width-large {
+    width: 300px;
+    background-color: lightgreen;
+  }
+  
+  /* Cambiar el color de fondo */
+  .background-red {
+    background-color: red;
+    color: white; /* Contraste para el texto */
+  }
+  
+  .background-yellow {
+    background-color: yellow;
+    color: black;
+  }
+  
+  .background-blue {
+    background-color: blue;
+    color: white;
+  }
+  
+  /* Cambiar el color del texto */
+  .color-black {
+    color: black;
+  }
+  
+  .color-green {
+    color: green;
+  }
+  
+  .color-purple {
+    color: purple;
+  }
+  
+  /* Aplicar bordes */
+  .border-solid {
+    border: 2px solid black;
+  }
+  
+  .border-dashed {
+    border: 2px dashed red;
+  }
+  
+  .border-double {
+    border: 4px double blue;
+  }
+  

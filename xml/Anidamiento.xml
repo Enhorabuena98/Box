@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Universidad>
+
+    <facultades>
+        <facultad nombre="fac1">
+            <decano>pepe</decano>
+            <departamentos>
+                <departamento nombre="informatica">
+                    <jefe_dep>pepe</jefe_dep>
+                    <carreras>
+                        <carrera nombre="Dam">
+                            <duracion>4 años</duracion>
+                            <coordinador>pepe</coordinador>
+                            <cursos>
+                                <curso codigo="123" nombre="primero">
+                                    <profesor>pepe</profesor>
+                                    <semestre>primer</semestre>
+                                    <estudiantes>
+                                        <estudiante codigo="123">
+                                            <nombre>pepe</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>jose</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>sito</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                    </estudiantes>
+                                </curso>
+                                <curso codigo="123" nombre="segundo">
+                                    <profesor>pepe</profesor>
+                                    <semestre>primer</semestre>
+                                    <estudiantes>
+                                        <estudiante codigo="123">
+                                            <nombre>pepe</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>jose</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>sito</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                    </estudiantes>
+                                </curso>
+                            </cursos>
+                        </carrera>
+                    </carreras>
+                </departamento>
+            </departamentos>
+        </facultad>
+        <facultad nombre="fac1">
+            <decano>pepe</decano>
+            <departamentos>
+                <departamento nombre="informatica">
+                    <jefe_dep>pepe</jefe_dep>
+                    <carreras>
+                        <carrera nombre="Dam">
+                            <duracion>4 años</duracion>
+                            <coordinador>pepe</coordinador>
+                            <cursos>
+                                <curso codigo="123" nombre="primero">
+                                    <profesor>pepe</profesor>
+                                    <semestre>primer</semestre>
+                                    <estudiantes>
+                                        <estudiante codigo="123">
+                                            <nombre>pepe</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>jose</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>sito</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                    </estudiantes>
+                                </curso>
+                                <curso codigo="123" nombre="segundo">
+                                    <profesor>pepe</profesor>
+                                    <semestre>primer</semestre>
+                                    <estudiantes>
+                                        <estudiante codigo="123">
+                                            <nombre>pepe</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>jose</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                        <estudiante codigo="123">
+                                            <nombre>sito</nombre>
+                                            <fechaNacimiento>3_10_1998</fechaNacimiento>
+                                        </estudiante>
+                                    </estudiantes>
+                                </curso>
+                            </cursos>
+                        </carrera>
+                    </carreras>
+                </departamento>
+            </departamentos>
+        </facultad>
+    </facultades>
+    
+
+</Universidad>

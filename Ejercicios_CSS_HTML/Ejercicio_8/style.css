@@ -1,0 +1,26 @@
+/* Estilo inicial para enlaces */
+a:link {
+    color: red; /* Color rojo para enlaces no visitados */
+    text-decoration: none; /* Sin subrayado */
+}
+
+a:hover {
+    color: white; /* Texto en blanco al pasar el cursor */
+    background-color: red; /* Fondo rojo */
+    text-decoration: underline; /* Subrayado al pasar el cursor */
+}
+
+a:active {
+    color: orange; /* Color naranja para enlaces activos */
+    text-decoration: none; /* Sin subrayado */
+}
+
+a:visited {
+    color: darkgreen; /* Color verde oscuro para enlaces visitados */
+    text-decoration: none; /* Sin subrayado */
+}
+
+a:focus {
+    color: blue; /* Color azul para enlaces con foco */
+    text-decoration: underline; /* Subrayado */
+}

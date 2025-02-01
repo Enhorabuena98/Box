@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Jose Antonio">
+    <meta name="description" content="Documentación del código de la clase VentanaPrincipal con PySide6.">
+    <title>Documentación - VentanaPrincipal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header, footer {
+            background-color: #1ac2ff;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        h1, h2, h3 {
+            color: #12375e;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        pre {
+            background-color: #eaf4fc; /* Azul claro */
+            border: 1px solid #12375e; /* Borde azul más oscuro */
+            border-radius: 5px;
+            padding: 10px;
+            overflow-x: auto;
+            font-family: 'Courier New', Courier, monospace;
+            color: #000; /* Texto en negro */
+        }
+
+        code {
+            color: #1d4e89; /* Azul oscuro */
+        }
+
+        ul {
+            margin: 10px 0;
+            padding: 0 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        article {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Documentación del Código: VentanaPrincipal</h1>
+        <p>Esta página describe la funcionalidad y estructura del código de la clase <code>VentanaPrincipal</code>.</p>
+    </header>
+
+    <main>
+        <!-- Sección: Introducción -->
+        <section>
+            <h2>Introducción</h2>
+            <p>La clase <code>VentanaPrincipal</code> implementa una aplicación gráfica utilizando PySide6. Proporciona menús, herramientas y funcionalidades avanzadas como edición de texto, cambios de estilo y acciones interactivas.</p>
+        </section>
+
+        <!-- Sección: Estructura del Código -->
+        <section>
+            <h2>Estructura del Código</h2>
+
+            <!-- Módulos Importados -->
+            <article>
+                <header>
+                    <h3>Módulos Importados</h3>
+                </header>
+                <p>El código utiliza los siguientes módulos:</p>
+                <ul>
+                    <li><code>os</code>: Gestión de rutas de archivo.</li>
+                    <li><code>PySide6.QtWidgets</code>: Para construir la interfaz gráfica (QMainWindow, QAction, etc.).</li>
+                    <li><code>PySide6.QtGui</code>: Para configuraciones gráficas y atajos de teclado.</li>
+                    <li><code>PySide6.QtCore</code>: Soporte para constantes y señales Qt.</li>
+                    <li><code>PySide6.QtWebEngineWidgets</code>: Para integrar vistas web dentro de la aplicación.</li>
+                </ul>
+            </article>
+
+            <!-- Atributos y Métodos -->
+            <article>
+                <header>
+                    <h3>Atributos y Métodos Principales</h3>
+                </header>
+                <p>La clase <code>VentanaPrincipal</code> se estructura en las siguientes partes:</p>
+                <ul>
+                    <li>
+                        <strong>Atributos:</strong>
+                        <ul>
+                            <li><code>self.status_bar</code>: Barra de estado para mensajes informativos.</li>
+                            <li><code>self.dockText</code>: Área de texto anclada para editar contenido.</li>
+                            <li><code>self.contador_palabras_label</code>: Contador de palabras dinámico.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Métodos:</strong>
+                        <ul>
+                            <li><code>crear_accion()</code>: Crea acciones configuradas con íconos, atajos y eventos.</li>
+                            <li><code>contar_palabras()</code>: Actualiza el contador de palabras en el área de texto.</li>
+                            <li>Acciones relacionadas con la edición de texto (<code>cortar()</code>, <code>copiar()</code>, etc.).</li>
+                            <li>Acciones relacionadas con estilos y configuraciones (<code>cambiar_fuente()</code>, <code>cambiar_color()</code>).</li>
+                            <li>Acciones de integración web (<code>abrir_chatgpt()</code>, <code>abrir_lofi()</code>, etc.).</li>
+                        </ul>
+                    </li>
+                </ul>
+            </article>
+        </section>
+
+        <!-- Sección: Funcionalidad -->
+        <section>
+            <h2>Funcionalidad</h2>
+            <article>
+                <header>
+                    <h3>Menús y Herramientas</h3>
+                </header>
+                <p>El programa implementa menús y una barra de herramientas con las siguientes opciones:</p>
+                <ul>
+                    <li><strong>Menú Archivo:</strong> Contiene acciones como abrir, guardar, ayuda y salir.</li>
+                    <li><strong>Menú Edición:</strong> Ofrece opciones para cortar, copiar, pegar y gestionar el texto.</li>
+                </ul>
+            </article>
+
+            <article>
+                <header>
+                    <h3>Integración Web</h3>
+                </header>
+                <p>Se incluyen funcionalidades para abrir servicios web directamente desde la aplicación:</p>
+                <ul>
+                    <li><strong>ChatGPT:</strong> Abre el sitio de ChatGPT.</li>
+                    <li><strong>Lofi:</strong> Accede a una página de música Lofi.</li>
+                    <li><strong>River:</strong> Muestra documentación de PyQt.</li>
+                </ul>
+            </article>
+
+            <article>
+                <header>
+                    <h3>Ejemplo de Código</h3>
+                </header>
+                <p>A continuación, se muestra un ejemplo de cómo iniciar la aplicación:</p>
+                <pre><code>from PySide6.QtWidgets import QApplication
+from VentanaPrincipal import VentanaPrincipal
+
+app = QApplication([])
+ventana = VentanaPrincipal()
+ventana.show()
+app.exec()</code></pre>
+            </article>
+        </section>
+
+        <!-- Sección: Conclusión -->
+        <section>
+            <h2>Conclusión</h2>
+            <p>Este código es un ejemplo avanzado de una aplicación PySide6 que combina edición de texto, integración web y una interfaz gráfica intuitiva.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 - Documentación del código. Creado para fines educativos.</p>
+    </footer>
+</body>
+
+</html>

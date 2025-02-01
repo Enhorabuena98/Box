@@ -1,0 +1,15 @@
+/* Cambiar el estilo de selección de texto */
+::selection {
+    background-color: green;
+    color: white;
+  }
+  
+  /* Estilo para el encabezado */
+  h1 {
+    background-color: orange;
+    color: black;
+    display: inline-block;
+    padding: 2px 5px;
+    font-size: 16px;
+  }
+  

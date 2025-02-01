@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corrección de HTML</title>
+</head>
+<body>
+
+    <!-- ERROR 1: El <section> no debería envolver un <aside>.
+         El <section> se usa para contenido principal, mientras que <aside> es para cosas secundarias. -->
+    <section>
+        <!-- El <aside> debe usarse para contenido adicional, no para algo principal. -->
+        <aside>
+            <div>
+                <!-- ERROR 2: No tiene sentido poner un <section> dentro de un <div>.
+                     <section> debería estar en el contenido principal, no dentro de un <div>. -->
+                <section>
+                    <!-- El <header> está bien usado para la parte superior del sitio web. -->
+                    <header>
+                        <!-- ERROR 3: El <a> está vacío, debe tener algo adentro, como un texto o imagen. -->
+                        <a href="/">
+                            <img src="logo.svg" alt="Logo">
+                        </a>
+                    </header>
+
+                    <!-- ERROR 4: Los enlaces de navegación están en el lugar equivocado. 
+                         Deberían estar dentro de un <nav>, no en un <main>. -->
+                    <main>
+                        <a href="/services">Services</a>
+                        <a href="/products">Products</a>
+                        <a href="/aboutus">About Us</a>
+                    </main>
+
+                    <!-- ERROR 5: El <footer> está mal colocado dentro de un <section>. 
+                         Solo ponlo al final del contenido principal, no dentro de una sección. -->
+                    <footer></footer>
+                </section>
+            </div>
+        </aside>
+    </section>
+
+    <!-- ERROR 6: Otro <footer> más, pero debería haber uno solo al final del contenido. -->
+    <footer></footer>
+
+    <!-- ERROR 7: <main> está mal usado aquí, no debería envolver algo secundario.
+         <main> solo debe contener lo principal del sitio. -->
+    <main>
+        <!-- El <h1> está bien, ya que es el título principal del contenido. -->
+        <h1>Welcome to the Site</h1>
+    </main>
+
+    <!-- ERROR 8: Otro <footer>, recuerda, solo uno al final de todo. -->
+    <footer></footer>
+
+</body>
+</html>

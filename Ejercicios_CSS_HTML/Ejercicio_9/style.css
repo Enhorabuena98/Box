@@ -1,0 +1,24 @@
+/* Lista sin elemento gráfico */
+.no-style {
+    list-style-type: none;
+}
+
+/* Lista con círculos */
+.circle-style {
+    list-style-type: circle;
+}
+
+/* Lista con cuadrados */
+.square-style {
+    list-style-type: square;
+}
+
+/* Lista con números romanos */
+.roman-style {
+    list-style-type: lower-roman;
+}
+
+/* Lista con letras griegas */
+.greek-style {
+    list-style-type: lower-greek;
+}
