@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bibliotecas>
+    <Biblioteca nombre="" direccion="">
+        <Salas>
+            <Sala nombre="" capacidad="">
+                <Estantes>
+                    <Estante id="" tema="">
+                        <Libros>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                        </Libros>
+                    </Estante>
+                    <Estante id="" tema="">
+                        <Libros>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                        </Libros>
+                    </Estante>
+                </Estantes>
+            </Sala>
+            <Sala nombre="" capacidad="">
+                <Estantes>
+                    <Estante id="" tema="">
+                        <Libros>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                        </Libros>
+                    </Estante>
+                </Estantes>
+            </Sala>
+        </Salas>
+    </Biblioteca>
+
+    <Biblioteca nombre="" direccion="">
+        <Salas>
+            <Sala nombre="" capacidad="">
+                <Estantes>
+                    <Estante id="" tema="">
+                        <Libros>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                        </Libros>
+                    </Estante>
+                </Estantes>
+            </Sala>
+            <Sala nombre="" capacidad="">
+                <Estantes>
+                    <Estante id="" tema="">
+                        <Libros>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                            <Libro titulo="" fecha_publicacion="">
+                                <Autores>
+                                    <Autor nombre="" fecha_nacimiento="" />
+                                </Autores>
+                            </Libro>
+                        </Libros>
+                    </Estante>
+                </Estantes>
+            </Sala>
+        </Salas>
+    </Biblioteca>
+</Bibliotecas>

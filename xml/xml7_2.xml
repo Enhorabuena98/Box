@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<almacen xmlns:producto="http://ejemplo.com/productos" xmlns:cliente="http://ejemplo.com/clientes">
+    <producto:items>
+        <producto:item ID="" nombre="" descripcion="">
+            <precio></precio>
+            <fechaCaducidad></fechaCaducidad>
+        </producto:item>
+        <producto:item ID="" nombre="" descripcion="">
+            <precio></precio>
+            <fechaCaducidad></fechaCaducidad>
+        </producto:item>
+        <producto:item ID="" nombre="" descripcion="">
+            <precio></precio>
+            <fechaCaducidad></fechaCaducidad>
+        </producto:item>
+    </producto:items>
+
+    <cliente:items>
+        <cliente:item ID="" nombre="" descripcion="">
+            <direccion></direccion>
+            <telefono></telefono>
+        </cliente:item>
+        <cliente:item ID="" nombre="" descripcion="">
+            <direccion></direccion>
+            <telefono></telefono>
+        </cliente:item>
+        <cliente:item ID="" nombre="" descripcion="">
+            <direccion></direccion>
+            <telefono></telefono>
+        </cliente:item>
+    </cliente:items>
+</almacen>

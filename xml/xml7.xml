@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Almacen>
+    <Productos>
+        <Producto codProd="" categoria="" precio="">
+            <nombre></nombre>
+            <fecha_cad></fecha_cad>
+            <ubicaciones>
+                <ubicacion numPas="" numEst="" capMax=""></ubicacion>
+                <ubicacion numPas="" numEst="" capMax=""></ubicacion>
+            </ubicaciones>
+            <proveedores>
+                <proveedor nombre="" direc="" tlf=""></proveedor>
+                <proveedor nombre="" direc="" tlf=""></proveedor>
+            </proveedores>
+        </Producto>
+        <Producto codProd="" categoria="" precio="">
+            <nombre></nombre>
+            <fecha_cad></fecha_cad>
+            <ubicaciones>
+                <ubicacion numPas="" numEst="" capMax=""></ubicacion>
+                <ubicacion numPas="" numEst="" capMax=""></ubicacion>
+            </ubicaciones>
+            <proveedores>
+                <proveedor nombre="" direc="" tlf=""></proveedor>
+                <proveedor nombre="" direc="" tlf=""></proveedor>
+            </proveedores>
+        </Producto>
+        <Producto codProd="" categoria="" precio="">
+            <nombre></nombre>
+            <fecha_cad></fecha_cad>
+            <ubicaciones>
+                <ubicacion numPas="" numEst="" capMax=""></ubicacion>
+                <ubicacion numPas="" numEst="" capMax=""></ubicacion>
+            </ubicaciones>
+            <proveedores>
+                <proveedor nombre="" direc="" tlf=""></proveedor>
+                <proveedor nombre="" direc="" tlf=""></proveedor>
+            </proveedores>
+        </Producto>
+    </Productos>
+</Almacen>

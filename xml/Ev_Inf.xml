@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Hechos_Historicos>
+    
+    <Hecho Nombre="">
+    
+        <fecha>
+            <Anio></Anio>
+            <Mes></Mes>
+            <Dia></Dia>
+        </fecha>
+        <Autor></Autor>
+        <Descripcion></Descripcion>
+    
+    </Hecho>
+
+</Hechos_Historicos>

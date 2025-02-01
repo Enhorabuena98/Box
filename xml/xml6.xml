@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<convencion tipo="tecnologica"
+            xmlns:productos="https://convencionproductos.com"
+            xmlns:expositores="https://convencionexpositores.com">
+    
+    <productos:item>
+        <productos:ID></productos:ID>
+        <productos:nombre></productos:nombre>
+        <productos:descripcion></productos:descripcion>
+    </productos:item>
+    <expositores:item>
+        <expositores:ID></expositores:ID>
+        <expositores:nombre></expositores:nombre>
+        <expositores:descripcion></expositores:descripcion>
+    </expositores:item>
+
+</convencion>

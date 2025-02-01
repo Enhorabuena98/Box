@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libreria   xmlns:charlas="https://www.ejemplocharlas.com"
+            xmlns:eventos="https://www.ejemploeventos.com">
+
+    <charlas:item>
+        <charlas:ID></charlas:ID>
+        <charlas:nombre></charlas:nombre>
+        <charlas:descripcion></charlas:descripcion>
+    </charlas:item>
+    <charlas:item>
+        <charlas:ID></charlas:ID>
+        <charlas:nombre></charlas:nombre>
+        <charlas:descripcion></charlas:descripcion>
+    </charlas:item>
+    <charlas:item>
+        <charlas:ID></charlas:ID>
+        <charlas:nombre></charlas:nombre>
+        <charlas:descripcion></charlas:descripcion>
+    </charlas:item>
+
+    <eventos:item>
+        <eventos:ID></eventos:ID>
+        <eventos:nombre></eventos:nombre>
+        <eventos:descripcion></eventos:descripcion>
+    </eventos:item>
+    <eventos:item>
+        <eventos:ID></eventos:ID>
+        <eventos:nombre></eventos:nombre>
+        <eventos:descripcion></eventos:descripcion>
+    </eventos:item>
+    <eventos:item>
+        <eventos:ID></eventos:ID>
+        <eventos:nombre></eventos:nombre>
+        <eventos:descripcion></eventos:descripcion>
+    </eventos:item>
+
+
+</libreria>

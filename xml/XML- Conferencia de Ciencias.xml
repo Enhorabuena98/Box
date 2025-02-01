@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<conferencia>
+	<evento>
+		<nombre>Física Cuántica Avanzada</nombre>
+		<fecha>2023-11-10</fecha>
+		<lugar>Auditorio Principal</lugar>
+	</evento>
+	<!-- ... otros eventos ... -->
+</conferencia>

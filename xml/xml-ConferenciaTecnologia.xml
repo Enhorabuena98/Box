@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<conferencia>
+	<evento>
+		<nombre>Introducción a la IA</nombre>
+		<fecha>2023-11-11</fecha>
+		<lugar>Sala Digital</lugar>
+	</evento>
+	<!-- ... otros eventos ... -->
+</conferencia>
