@@ -1,0 +1,102 @@
+{"Campeones": [
+   {
+      "posicion": "Portero",
+      "ciudad": "Tokio",
+      "coordenadas": {
+         "latitud": 35.6895,
+         "longitud": 139.6917
+      },
+      "nombre": "Oliver Atom",
+      "edad": 14
+   },
+   {
+      "posicion": "Portero",
+      "ciudad": "Liverpool",
+      "coordenadas": {
+         "latitud": 53.4084,
+         "longitud": -2.9916
+      },
+      "nombre": "Benji Price",
+      "edad": 15
+   },
+   {
+      "posicion": "Defensa",
+      "ciudad": "Hamburgo",
+      "coordenadas": {
+         "latitud": 53.5511,
+         "longitud": 9.9937
+      },
+      "nombre": "Mark Lenders",
+      "edad": 16
+   },
+   {
+      "posicion": "Centrocampista",
+      "ciudad": "Nagano",
+      "coordenadas": {
+         "latitud": 36.6486,
+         "longitud": 138.1948
+      },
+      "nombre": "Tom Misaki",
+      "edad": 14
+   },
+   {
+      "posicion": "Delantero",
+      "ciudad": "Sao Paulo",
+      "coordenadas": {
+         "latitud": -23.5505,
+         "longitud": -46.6333
+      },
+      "nombre": "Steve Hyuga",
+      "edad": 17
+   },
+   {
+      "posicion": "Delantero",
+      "ciudad": "Munich",
+      "coordenadas": {
+         "latitud": 48.8566,
+         "longitud": 2.3522
+      },
+      "nombre": "Karl Heinz Schneider",
+      "edad": 18
+   },
+   {
+      "posicion": "Centrocampista",
+      "ciudad": "Nara",
+      "coordenadas": {
+         "latitud": 34.6851,
+         "longitud": 135.8049
+      },
+      "nombre": "Taro Misaki",
+      "edad": 15
+   },
+   {
+      "posicion": "Entrenador",
+      "ciudad": "Buenos Aires",
+      "coordenadas": {
+         "latitud": -34.6118,
+         "longitud": -58.4173
+      },
+      "nombre": "Roberto Hongo",
+      "edad": 40
+   },
+   {
+      "posicion": "Centrocampista",
+      "ciudad": "Osaka",
+      "coordenadas": {
+         "latitud": 34.6937,
+         "longitud": 135.5022
+      },
+      "nombre": "Hikaru Matsuyama",
+      "edad": 16
+   },
+   {
+      "posicion": "Centrocampista",
+      "ciudad": "Río de Janeiro",
+      "coordenadas": {
+         "latitud": -22.9068,
+         "longitud": -43.1729
+      },
+      "nombre": "Rivaul",
+      "edad": 25
+   }
+]}

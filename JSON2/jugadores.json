@@ -1,0 +1,49 @@
+{"jugadores": [[
+   {
+      "posiciones": [
+         "Delantero",
+         "Capitán"
+      ],
+      "juega": true,
+      "idFutbolista": 2000,
+      "nombre": "Lionel Messi",
+      "edad": 36
+   },
+   {
+      "posiciones": [
+         "Delantero",
+         "Extremo"
+      ],
+      "juega": true,
+      "idFutbolista": 2001,
+      "nombre": "Cristiano Ronaldo",
+      "edad": 38
+   },
+   {
+      "posiciones": ["Delantero"],
+      "juega": false,
+      "idFutbolista": 2002,
+      "nombre": "Kylian Mbappé",
+      "edad": 25
+   },
+   {
+      "posiciones": [
+         "Mediocampista",
+         "Capitán"
+      ],
+      "juega": true,
+      "idFutbolista": 2003,
+      "nombre": "Kevin De Bruyne",
+      "edad": 32
+   },
+   {
+      "posiciones": [
+         "Defensa",
+         "Capitán"
+      ],
+      "juega": true,
+      "idFutbolista": 2004,
+      "nombre": "Virgil van Dijk",
+      "edad": 33
+   }
+]]}

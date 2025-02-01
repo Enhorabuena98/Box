@@ -1,0 +1,151 @@
+{"Ricky": [
+   {
+      "productora": "Adult Swim",
+      "rango": "Científico",
+      "planeta": "Tierra (C-137)",
+      "salario": 150000,
+      "nombre": "Rick Sanchez",
+      "edad": 70
+   },
+   {
+      "rango": "Aventurero",
+      "planeta": "Tierra (C-137)",
+      "salario": 50000,
+      "nombre": "Morty Smith",
+      "edad": 14
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Estudiante",
+      "planeta": "Tierra (C-137)",
+      "salario": 30000,
+      "nombre": "Summer Smith",
+      "edad": 17
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Veterinaria",
+      "salario": 0,
+      "nombre": "Beth Smith",
+      "edad": 34
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Desempleado",
+      "planeta": "Tierra (C-137)",
+      "salario": 0,
+      "nombre": "Jerry Smith",
+      "edad": 35
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Guerrero",
+      "planeta": "Planeta Fénix",
+      "salario": 120000,
+      "nombre": "Birdperson",
+      "edad": 50
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Asistente",
+      "planeta": "Tierra (C-137)",
+      "salario": 10000,
+      "nombre": "Mr. Meeseeks",
+      "edad": 0
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Revolucionario",
+      "planeta": "Planeta Squanch",
+      "salario": 0,
+      "nombre": "Squanchy",
+      "edad": 45
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Amigo de la Familia",
+      "salario": 75000,
+      "nombre": "Mr. Poopybutthole",
+      "edad": 30
+   },
+   {
+      "productora": "Adult Swim",
+      "planeta": "Planeta Gazorpazorp",
+      "salario": 60000,
+      "nombre": "Tammy Guetermann",
+      "edad": 0
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Dictador",
+      "planeta": "Tierra (Desconocida)",
+      "salario": 200000,
+      "nombre": "Evil Morty",
+      "edad": 14
+   },
+   {
+      "rango": "Pepinillo",
+      "planeta": "Tierra (C-137)",
+      "salario": 0,
+      "nombre": "Pickle Rick",
+      "edad": 70
+   },
+   {
+      "productora": "Adult Swim",
+      "planeta": "Tierra (C-137)",
+      "salario": 60000,
+      "nombre": "Abradolf Lincler",
+      "edad": 35
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Conciencia Colectiva",
+      "planeta": "Planeta Unity",
+      "salario": 150000,
+      "nombre": "Unity",
+      "edad": 1000
+   },
+   {
+      "rango": "Asesino a Sueldo",
+      "salario": 85000,
+      "nombre": "Krombopulos Michael",
+      "edad": 0
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Empleado",
+      "planeta": "Tierra (C-137)",
+      "salario": 0,
+      "nombre": "Noob-Noob",
+      "edad": 22
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Interés Amoroso",
+      "salario": 25000,
+      "nombre": "Jessica",
+      "edad": 17
+   },
+   {
+      "productora": "Adult Swim",
+      "rango": "Pesadilla",
+      "planeta": "Dimensión de Pesadillas",
+      "salario": 50000,
+      "nombre": "Scary Terry",
+      "edad": 0
+   },
+   {
+      "rango": "Clon",
+      "planeta": "Tierra (C-137)",
+      "salario": 80000,
+      "nombre": "Beth Clone",
+      "edad": 34
+   },
+   {
+      "productora": "Adult Swim",
+      "planeta": "Planeta Fénix",
+      "salario": 120000,
+      "nombre": "Phoenixperson",
+      "edad": 50
+   }
+]}

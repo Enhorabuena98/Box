@@ -1,0 +1,42 @@
+{"alumnos": [[
+   {
+      "idAlumno": 1000,
+      "telefonos": [
+         "222333444",
+         "555666777",
+         "888999000"
+      ],
+      "nombre": "Jose Andres Perez",
+      "edad": 22,
+      "repetidor": false
+   },
+   {
+      "idAlumno": 1001,
+      "telefonos": [
+         "222333444",
+         "555666777",
+         "888999000",
+         "333421039"
+      ],
+      "nombre": "Ana Sanchis Cabanilles",
+      "edad": 21,
+      "repetidor": false
+   },
+   {
+      "idAlumno": 1002,
+      "telefonos": [],
+      "nombre": "Aina Gomes Pons",
+      "edad": 23,
+      "repetidor": true
+   },
+   {
+      "idAlumno": 1003,
+      "telefonos": [
+         "222111214",
+         "515626677"
+      ],
+      "nombre": "Ainara GabaldÃ³n Estruch",
+      "edad": 24,
+      "repetidor": false
+   }
+]]}
